@@ -7,10 +7,10 @@ Working environment
 -----------------
 
 For bootloaders we will use following tools:
-NASM : Assembly compiler
-GCC or CLANG : For C code
-Qemu : For running our code
-SeaBIOS : For Bios Emulation
+ - NASM : Assembly compiler
+ - GCC or CLANG : For C code
+ - Qemu : For running our code
+ - SeaBIOS : For Bios Emulation
 
 ### NASM:
  - [NASM Installation](https://www.nasm.us/)
