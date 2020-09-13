@@ -13,13 +13,13 @@ Qemu : For running our code
 SeaBIOS : For Bios Emulation
 
 ### NASM:
-[NASM Installation](https://www.nasm.us/)
-[NASM Tutorial](https://cs.lmu.edu/~ray/notes/nasmtutorial/)
+ - [NASM Installation](https://www.nasm.us/)
+ - [NASM Tutorial](https://cs.lmu.edu/~ray/notes/nasmtutorial/)
 
 
 ### QEMU:
-[QEMU installation](https://www.qemu.org/download/)
-[QEMU Tutorial](https://freeptr.io/2016/06/13/qemu-for-the-impatients/)
+ - [QEMU installation](https://www.qemu.org/download/)
+ - [QEMU Tutorial](https://freeptr.io/2016/06/13/qemu-for-the-impatients/)
 
 ### SeaBIOS:
 Run qemu with your compiled BIOS!! (Not sure how you feel about it but I think is dope ;)
